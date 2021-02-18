@@ -1,7 +1,7 @@
 import React from 'react';
 import { BrowserRouter, Switch, Route} from 'react-router-dom';
 import Home from './core/Home';
-import Search from './coreSearch';
+import Search from './core/Search';
 
 const Routes = () => {
     return (

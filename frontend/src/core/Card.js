@@ -11,7 +11,7 @@ const Card = ({ videogame }) => {
                 <h2>{videogame.name}</h2>
                 <p>{videogame.price}</p>
                 <p>{videogame.description}</p>
-                <button className="btn btn-succes">Ver Mas</button>
+                <button className="btn btn-success">Ver Mas</button>
             </div>
         </div>
     )
