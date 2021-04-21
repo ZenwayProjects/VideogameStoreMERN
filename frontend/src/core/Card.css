@@ -4,6 +4,9 @@
     margin: 0 auto;
 }
 
+#stron {
+    color: rgb(182, 8, 8);
+}
 .card-cont {
     border-radius: 15px;
     min-width: 240px;

@@ -9,7 +9,7 @@ const Card = ({ videogame }) => {
             <div>
                 <ShowImage className="img" item={videogame} url="videogame" />
                 <h2>{videogame.name}</h2>
-                <p>{videogame.price}</p>
+                <p id="stron"><strong>{videogame.price}</strong></p>
                 <p>{videogame.description}</p>
                 <button className="btn btn-success">Ver Mas</button>
             </div>
